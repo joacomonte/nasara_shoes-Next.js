@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Becerra",
+      "description1": "Talles: 36, 37, 38",
+      "description2": "Colores disponibles: Marron",
+      "image": "/zapas1.png",
+      "price": "$14.000"
+    },
+    {
+      "id": 2,
+      "name": "Nike Toretto",
+      "description1": "Talles: 36, 37, 38",
+      "description2": "Colores disponibles: Blanco con gris",
+      "image": "/zapas2.png",
+      "price": "$9.000"
+    },
+    {
+      "id": 2,
+      "name": "Nike Brian Splinner",
+      "description1": "Talles: 36, 37, 38",
+      "description2": "Colores disponibles: Blanco con Rojo",
+      "image": "/zapas3.png",
+      "price": "$13.000"
+    }
+  ]
