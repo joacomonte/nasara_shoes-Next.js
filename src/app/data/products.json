@@ -3,6 +3,7 @@
       "id": 1,
       "name": "DUNK Low Panda",
       "description1": "Talles: 36-44",
+      "description2": "",
       "image": "/zapas1.png",
       "price": "$35.000"
     },
@@ -10,6 +11,7 @@
       "id": 2,
       "name": "SB DUNK Low Gris",
       "description1": "Talles: 39-44",
+      "description2": "",
       "image": "/zapas2.png",
       "price": "$9.000"
     },
