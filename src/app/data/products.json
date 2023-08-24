@@ -1,17 +1,15 @@
 [
     {
       "id": 1,
-      "name": "Nike Becerra",
-      "description1": "Talles: 36, 37, 38",
-      "description2": "Colores disponibles: Marron",
+      "name": "DUNK Low Panda",
+      "description1": "Talles: 36-44",
       "image": "/zapas1.png",
-      "price": "$14.000"
+      "price": "$35.000"
     },
     {
       "id": 2,
-      "name": "Nike Toretto",
-      "description1": "Talles: 36, 37, 38",
-      "description2": "Colores disponibles: Blanco con gris",
+      "name": "SB DUNK Low Gris",
+      "description1": "Talles: 39-44",
       "image": "/zapas2.png",
       "price": "$9.000"
     },
