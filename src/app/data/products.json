@@ -19,7 +19,7 @@
       "id": 3,
       "name": "SB DUNK Bordeaux low",
       "description1": "Talles: 39-44",
-      "description2": "Colores disponibles: Blanco con Rojo",
+      "description2": "",
       "image": "SB-BORDEAUX.jpg",
       "price": "$33.000"
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "name": "Air Force 1",
       "description1": "Talles: 39-44",
-      "description2": "Colores disponibles: Blanco con Rojo",
+      "description2": "",
       "image": "AIRFORCE1.jpg",
       "price": "$35.000"
     },
@@ -35,7 +35,7 @@
       "id": 5,
       "name": "Vans old school",
       "description1": "Talles: 36-43",
-      "description2": "Colores disponibles: Blanco con Rojo",
+      "description2": "",
       "image": "VANS-OLDSCHOOL.jpg",
       "price": "$15.000"
     },
@@ -43,7 +43,7 @@
       "id": 6,
       "name": "Vans ultrarange",
       "description1": "Talles: 39-44",
-      "description2": "Colores disponibles: Blanco con Rojo",
+      "description2": "",
       "image": "/VANS-ULTRARANGE.jpg",
       "price": "$22.000"
     },
@@ -51,7 +51,7 @@
       "id": 7,
       "name": "Nike Brian Splinner",
       "description1": "Talles: 36, 37, 38",
-      "description2": "Colores disponibles: Blanco con Rojo",
+      "description2": "",
       "image": "/zapas3.png",
       "price": "$13.000"
     }
