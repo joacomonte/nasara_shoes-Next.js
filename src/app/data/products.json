@@ -3,7 +3,7 @@
       "id": 1,
       "name": "SB DUNK Panda low",
       "description1": "Talles: 36-44",
-      "description2": "",
+      "description2": "cordones negros / blancos",
       "image": "/SB-PANDA.jpg",
       "price": "$39.000"
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "name": "SB DUNK Bordeaux low",
       "description1": "Talles: 39-44",
-      "description2": "",
+      "description2": "cordones bordo / blancos",
       "image": "SB-BORDEAUX.jpg",
       "price": "$39.000"
     },
@@ -51,7 +51,7 @@
       "id": 7,
       "name": "SB DUNK pro",
       "description1": "Talles: 40-44",
-      "description2": "",
+      "description2": "cordones negros / blancos",
       "image": "",
       "price": "$45.000"
     }
