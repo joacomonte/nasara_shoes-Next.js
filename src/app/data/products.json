@@ -46,5 +46,13 @@
       "description2": "",
       "image": "/VANS-ULTRARANGE.jpg",
       "price": "$35.000"
+    },
+    {
+      "id": 7,
+      "name": "SB DUNK pro",
+      "description1": "Talles: 40-44",
+      "description2": "",
+      "image": "",
+      "price": "$45.000"
     }
   ]
