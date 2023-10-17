@@ -5,7 +5,7 @@
       "description1": "Talles: 36-44",
       "description2": "",
       "image": "/SB-PANDA.jpg",
-      "price": "$30.000"
+      "price": "$39.000"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "description1": "Talles: 39-44",
       "description2": "",
       "image": "/SB-GRIS.jpg",
-      "price": "$24.000"
+      "price": "$30.000"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "description1": "Talles: 39-44",
       "description2": "",
       "image": "SB-BORDEAUX.jpg",
-      "price": "$30.000"
+      "price": "$39.000"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "description1": "Talles: 39-44",
       "description2": "",
       "image": "AIRFORCE1.jpg",
-      "price": "$35.000"
+      "price": "$45.000"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "description1": "Talles: 36-43",
       "description2": "",
       "image": "VANS-OLDSCHOOL.jpg",
-      "price": "$15.000"
+      "price": "$18.000"
     },
     {
       "id": 6,
@@ -45,6 +45,6 @@
       "description1": "Talles: 39-44",
       "description2": "",
       "image": "/VANS-ULTRARANGE.jpg",
-      "price": "$22.000"
+      "price": "$35.000"
     }
   ]
