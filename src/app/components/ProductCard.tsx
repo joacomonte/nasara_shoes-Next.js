@@ -46,7 +46,7 @@ const ProductCard = ({ product }: ProductCardProps) => {
         }}
       >
         {product.price && <h3>{product.price}</h3>}
-        <Link href={`https://api.whatsapp.com/send?phone=5491130347718&text=${whatsAppMessage}`}>
+        <Link href={`https://api.whatsapp.com/send?phone=5491130347719&text=${whatsAppMessage}`}>
           <button>Preguntar Stock</button>
         </Link>
       </div>
