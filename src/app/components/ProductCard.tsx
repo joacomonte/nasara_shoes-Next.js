@@ -14,6 +14,9 @@ interface ProductCardProps {
 }
 
 const ProductCard = ({ product }: ProductCardProps) => {
+
+  const whatsAppMessage = encodeURIComponent(`Consulta sobre el stock de ${product.name}`);
+
   const handleButtonClick = () => {
     window.location.href = "https://wa.link/8gwob4";
   };
@@ -43,7 +46,7 @@ const ProductCard = ({ product }: ProductCardProps) => {
         }}
       >
         {product.price && <h3>{product.price}</h3>}
-        <Link href="https://wa.link/8gwob4" passHref>
+        <Link href={`https://api.whatsapp.com/send?phone=5491130347718&text=${whatsAppMessage}`}>
           <button>Preguntar Stock</button>
         </Link>
       </div>
