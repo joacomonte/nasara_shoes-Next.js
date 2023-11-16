@@ -39,10 +39,10 @@ const ProductCard = ({ product }: ProductCardProps) => {
       <div
         style={{
           display: "flex",
-          justifyContent: "space-around",
-          paddingRight: "20px",
+          justifyContent: "space-between",
+          padding: '10px',
           alignItems: "center",
-          marginTop: "20px",
+
         }}
       >
         {product.price && <h3>{product.price}</h3>}
